@@ -1,6 +1,7 @@
 # CV---Resume-Generator
 
-CV Resume Generator Web App
+#CV Resume Generator Web App
+<br>
 This Django web application is designed to help you create a professional resume quickly and easily. With just a few simple inputs, you can generate a polished and well-organized CV that highlights your skills and accomplishments.
 
 
